@@ -1,0 +1,10 @@
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\bin\Debug\frmPhieuNhapSanPham.exe.config
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\bin\Debug\frmPhieuNhapSanPham.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\bin\Debug\frmPhieuNhapSanPham.pdb
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\obj\Debug\frmPhieuNhapSanPham.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\obj\Debug\frmPhieuNhapSanPham.Form1.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\obj\Debug\frmPhieuNhapSanPham.Properties.Resources.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\obj\Debug\frmPhieuNhapSanPham.csproj.GenerateResource.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\obj\Debug\frmPhieuNhapSanPham.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\obj\Debug\frmPhieuNhapSanPham.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài10\frmPhieuNhapSanPham\obj\Debug\frmPhieuNhapSanPham.pdb

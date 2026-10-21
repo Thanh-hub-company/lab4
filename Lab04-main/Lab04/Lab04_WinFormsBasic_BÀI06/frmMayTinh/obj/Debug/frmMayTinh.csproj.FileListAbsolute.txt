@@ -1,0 +1,10 @@
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\bin\Debug\frmMayTinh.exe.config
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\bin\Debug\frmMayTinh.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\bin\Debug\frmMayTinh.pdb
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\obj\Debug\frmMayTinh.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\obj\Debug\frmMayTinh.Form1.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\obj\Debug\frmMayTinh.Properties.Resources.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\obj\Debug\frmMayTinh.csproj.GenerateResource.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\obj\Debug\frmMayTinh.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\obj\Debug\frmMayTinh.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_BÀI06\frmMayTinh\obj\Debug\frmMayTinh.pdb

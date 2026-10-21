@@ -1,0 +1,10 @@
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\obj\Debug\frmDangKyHocPhan.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\obj\Debug\frmDangKyHocPhan.Form1.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\obj\Debug\frmDangKyHocPhan.Properties.Resources.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\obj\Debug\frmDangKyHocPhan.csproj.GenerateResource.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\obj\Debug\frmDangKyHocPhan.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\bin\Debug\frmDangKyHocPhan.exe.config
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\bin\Debug\frmDangKyHocPhan.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\bin\Debug\frmDangKyHocPhan.pdb
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\obj\Debug\frmDangKyHocPhan.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài09\frmDangKyHocPhan\obj\Debug\frmDangKyHocPhan.pdb

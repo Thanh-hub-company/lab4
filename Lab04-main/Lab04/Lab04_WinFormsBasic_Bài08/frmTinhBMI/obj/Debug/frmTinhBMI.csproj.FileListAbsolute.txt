@@ -1,0 +1,10 @@
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\bin\Debug\frmTinhBMI.exe.config
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\bin\Debug\frmTinhBMI.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\bin\Debug\frmTinhBMI.pdb
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\obj\Debug\frmTinhBMI.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\obj\Debug\frmTinhBMI.Form1.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\obj\Debug\frmTinhBMI.Properties.Resources.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\obj\Debug\frmTinhBMI.csproj.GenerateResource.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\obj\Debug\frmTinhBMI.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\obj\Debug\frmTinhBMI.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài08\frmTinhBMI\obj\Debug\frmTinhBMI.pdb

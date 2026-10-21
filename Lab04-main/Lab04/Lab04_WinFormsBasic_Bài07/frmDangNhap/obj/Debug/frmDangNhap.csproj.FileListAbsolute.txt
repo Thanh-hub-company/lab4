@@ -1,0 +1,10 @@
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\obj\Debug\frmDangNhap.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\obj\Debug\frmDangNhap.Form1.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\obj\Debug\frmDangNhap.Properties.Resources.resources
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\obj\Debug\frmDangNhap.csproj.GenerateResource.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\obj\Debug\frmDangNhap.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\bin\Debug\frmDangNhap.exe.config
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\bin\Debug\frmDangNhap.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\bin\Debug\frmDangNhap.pdb
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\obj\Debug\frmDangNhap.exe
+D:\BT Classroom Lab\Lab04\Lab04_WinFormsBasic_Bài07\frmDangNhap\obj\Debug\frmDangNhap.pdb
